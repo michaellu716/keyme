@@ -1,0 +1,12 @@
+In the project directory, first you have to run :
+### `npm install` 
+to install the mentioned npm packages which helped to create the project. 
+
+In the project directory, you can run:
+
+### `npm start`
+to start the Project.
+
+After this, in the browser you'll enter (http://localhost:3000/).
+
+
